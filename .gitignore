@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+bin/
+obj/
+out/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Pacotes
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Dependências do NuGet
+packages/
+*.dll
+*.exe
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.cache
+
+# SQL Server LocalDB
+*.mdf
+*.ldf
+
+# Arquivos de publish
+*.Publish.xml
